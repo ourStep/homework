@@ -1,0 +1,6 @@
+D:\Dima\!Шаг\c#\home_lessons\home_lesson_2\home_lesson_2_7\home_lesson_2_7\bin\Debug\home_lesson_2_7.exe.config
+D:\Dima\!Шаг\c#\home_lessons\home_lesson_2\home_lesson_2_7\home_lesson_2_7\bin\Debug\home_lesson_2_7.exe
+D:\Dima\!Шаг\c#\home_lessons\home_lesson_2\home_lesson_2_7\home_lesson_2_7\bin\Debug\home_lesson_2_7.pdb
+D:\Dima\!Шаг\c#\home_lessons\home_lesson_2\home_lesson_2_7\home_lesson_2_7\obj\Debug\home_lesson_2_7.csprojResolveAssemblyReference.cache
+D:\Dima\!Шаг\c#\home_lessons\home_lesson_2\home_lesson_2_7\home_lesson_2_7\obj\Debug\home_lesson_2_7.exe
+D:\Dima\!Шаг\c#\home_lessons\home_lesson_2\home_lesson_2_7\home_lesson_2_7\obj\Debug\home_lesson_2_7.pdb
